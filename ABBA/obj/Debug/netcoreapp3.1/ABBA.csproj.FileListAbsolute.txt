@@ -1,0 +1,13 @@
+C:\Users\Paul\Desktop\DNP\ABBA\bin\Debug\netcoreapp3.1\ABBA.exe
+C:\Users\Paul\Desktop\DNP\ABBA\bin\Debug\netcoreapp3.1\ABBA.deps.json
+C:\Users\Paul\Desktop\DNP\ABBA\bin\Debug\netcoreapp3.1\ABBA.runtimeconfig.json
+C:\Users\Paul\Desktop\DNP\ABBA\bin\Debug\netcoreapp3.1\ABBA.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\DNP\ABBA\bin\Debug\netcoreapp3.1\ABBA.dll
+C:\Users\Paul\Desktop\DNP\ABBA\bin\Debug\netcoreapp3.1\ABBA.pdb
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.AssemblyInfo.cs
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.dll
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.pdb
+C:\Users\Paul\Desktop\DNP\ABBA\obj\Debug\netcoreapp3.1\ABBA.genruntimeconfig.cache

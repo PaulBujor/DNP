@@ -1,0 +1,13 @@
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math1.exe
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math1.deps.json
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math1.runtimeconfig.json
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math1.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math1.dll
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math1.pdb
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.AssemblyInfo.cs
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.dll
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.pdb
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math1.genruntimeconfig.cache

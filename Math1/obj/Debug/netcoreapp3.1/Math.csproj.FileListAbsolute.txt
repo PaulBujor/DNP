@@ -1,0 +1,13 @@
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\Paul\Desktop\DNP\Math1\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\Paul\Desktop\DNP\Math1\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
