@@ -1,0 +1,13 @@
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\bin\Debug\netcoreapp3.1\Doctors.exe
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\bin\Debug\netcoreapp3.1\Doctors.deps.json
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\bin\Debug\netcoreapp3.1\Doctors.runtimeconfig.json
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\bin\Debug\netcoreapp3.1\Doctors.runtimeconfig.dev.json
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\bin\Debug\netcoreapp3.1\Doctors.dll
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\bin\Debug\netcoreapp3.1\Doctors.pdb
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.csprojAssemblyReference.cache
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.AssemblyInfoInputs.cache
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.AssemblyInfo.cs
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.csproj.CoreCompileInputs.cache
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.dll
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.pdb
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\Doctors\obj\Debug\netcoreapp3.1\Doctors.genruntimeconfig.cache

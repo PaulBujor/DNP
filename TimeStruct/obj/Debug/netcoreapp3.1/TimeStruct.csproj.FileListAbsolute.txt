@@ -1,0 +1,12 @@
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\bin\Debug\netcoreapp3.1\TimeStruct.exe
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\bin\Debug\netcoreapp3.1\TimeStruct.deps.json
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\bin\Debug\netcoreapp3.1\TimeStruct.runtimeconfig.json
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\bin\Debug\netcoreapp3.1\TimeStruct.runtimeconfig.dev.json
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\bin\Debug\netcoreapp3.1\TimeStruct.dll
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\bin\Debug\netcoreapp3.1\TimeStruct.pdb
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\obj\Debug\netcoreapp3.1\TimeStruct.AssemblyInfoInputs.cache
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\obj\Debug\netcoreapp3.1\TimeStruct.AssemblyInfo.cs
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\obj\Debug\netcoreapp3.1\TimeStruct.csproj.CoreCompileInputs.cache
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\obj\Debug\netcoreapp3.1\TimeStruct.dll
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\obj\Debug\netcoreapp3.1\TimeStruct.pdb
+C:\Users\bujor\OneDrive - ViaUC\Skrivebord\DNP\TimeStruct\obj\Debug\netcoreapp3.1\TimeStruct.genruntimeconfig.cache
