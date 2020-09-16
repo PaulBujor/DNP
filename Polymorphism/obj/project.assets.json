@@ -8,23 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bujor\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Paul\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\Polymorphism\\Polymorphism.csproj",
+      "projectUniqueName": "C:\\Users\\Paul\\Desktop\\DNP\\Polymorphism\\Polymorphism.csproj",
       "projectName": "Polymorphism",
-      "projectPath": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\Polymorphism\\Polymorphism.csproj",
-      "packagesPath": "C:\\Users\\bujor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\Polymorphism\\obj\\",
+      "projectPath": "C:\\Users\\Paul\\Desktop\\DNP\\Polymorphism\\Polymorphism.csproj",
+      "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Paul\\Desktop\\DNP\\Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bujor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

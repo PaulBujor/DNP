@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\StringWorks\\StringWorks.csproj": {}
+    "C:\\Users\\Paul\\Desktop\\DNP\\StringWorks\\StringWorks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\StringWorks\\StringWorks.csproj": {
+    "C:\\Users\\Paul\\Desktop\\DNP\\StringWorks\\StringWorks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\StringWorks\\StringWorks.csproj",
+        "projectUniqueName": "C:\\Users\\Paul\\Desktop\\DNP\\StringWorks\\StringWorks.csproj",
         "projectName": "StringWorks",
-        "projectPath": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\StringWorks\\StringWorks.csproj",
-        "packagesPath": "C:\\Users\\bujor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\StringWorks\\obj\\",
+        "projectPath": "C:\\Users\\Paul\\Desktop\\DNP\\StringWorks\\StringWorks.csproj",
+        "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paul\\Desktop\\DNP\\StringWorks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bujor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
