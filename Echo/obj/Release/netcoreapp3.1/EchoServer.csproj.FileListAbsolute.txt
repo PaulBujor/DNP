@@ -1,0 +1,12 @@
+C:\Users\Paul\Desktop\DNP\Echo\bin\Release\netcoreapp3.1\EchoServer.exe
+C:\Users\Paul\Desktop\DNP\Echo\bin\Release\netcoreapp3.1\EchoServer.deps.json
+C:\Users\Paul\Desktop\DNP\Echo\bin\Release\netcoreapp3.1\EchoServer.runtimeconfig.json
+C:\Users\Paul\Desktop\DNP\Echo\bin\Release\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\DNP\Echo\bin\Release\netcoreapp3.1\EchoServer.dll
+C:\Users\Paul\Desktop\DNP\Echo\bin\Release\netcoreapp3.1\EchoServer.pdb
+C:\Users\Paul\Desktop\DNP\Echo\obj\Release\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\DNP\Echo\obj\Release\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+C:\Users\Paul\Desktop\DNP\Echo\obj\Release\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\DNP\Echo\obj\Release\netcoreapp3.1\EchoServer.dll
+C:\Users\Paul\Desktop\DNP\Echo\obj\Release\netcoreapp3.1\EchoServer.pdb
+C:\Users\Paul\Desktop\DNP\Echo\obj\Release\netcoreapp3.1\EchoServer.genruntimeconfig.cache

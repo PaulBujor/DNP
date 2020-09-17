@@ -1,0 +1,13 @@
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfo.cs
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\DNP\JSON\bin\Debug\netcoreapp3.1\JSON.exe
+C:\Users\Paul\Desktop\DNP\JSON\bin\Debug\netcoreapp3.1\JSON.deps.json
+C:\Users\Paul\Desktop\DNP\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.json
+C:\Users\Paul\Desktop\DNP\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\DNP\JSON\bin\Debug\netcoreapp3.1\JSON.dll
+C:\Users\Paul\Desktop\DNP\JSON\bin\Debug\netcoreapp3.1\JSON.pdb
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.dll
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.pdb
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.genruntimeconfig.cache
+C:\Users\Paul\Desktop\DNP\JSON\obj\Debug\netcoreapp3.1\JSON.csprojAssemblyReference.cache
