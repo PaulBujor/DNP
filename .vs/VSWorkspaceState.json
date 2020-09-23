@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JSON\\bin",
+    "\\JSON\\bin\\Debug",
+    "\\JSON\\bin\\Debug\\netcoreapp3.1"
   ],
-  "SelectedNode": "\\DNP.sln",
+  "SelectedNode": "\\JSON",
   "PreviewInSolutionExplorer": false
 }
