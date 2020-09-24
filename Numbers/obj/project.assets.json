@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Paul\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\bujor\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paul\\Desktop\\DNP\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\Numbers\\Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "C:\\Users\\Paul\\Desktop\\DNP\\Numbers\\Numbers.csproj",
-      "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paul\\Desktop\\DNP\\Numbers\\obj\\",
+      "projectPath": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\Numbers\\Numbers.csproj",
+      "packagesPath": "C:\\Users\\bujor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bujor\\OneDrive - ViaUC\\Skrivebord\\DNP\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bujor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
